@@ -1,0 +1,6 @@
+{
+  "CONNECTwww.imooc.com":"443 HTTP/1.1",
+  "Host": "www.imooc.com:443",
+  "Connection": "keep-alive",
+  "User-Agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36"
+}

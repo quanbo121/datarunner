@@ -1,0 +1,17 @@
+{
+  "u/loading": [
+    {"0":"成功"},
+    {"1001":"失败"}
+  ],
+   "wechat/qrcode": [
+    {"-100":"系统错误"},
+    {"0":"成功"}
+     ],
+  "api3/getbanneradvertver2":[
+    {"1006":"token error"}
+  ],
+  "api3/beta4":[
+    {"1006":"token error"},
+    {"1007":"hahah"}
+    ]
+}
