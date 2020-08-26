@@ -9,7 +9,7 @@ class Test01(unittest.TestCase):
         pass
     def tearDown(self):
         pass
-
+    '''xiugaile'''
     def test_001(self):
         '''调用封装的方法验证updatversion接口参数为空'''
         res=request.run_main(method="get",url=url)
